@@ -1,0 +1,7 @@
+carrots
+cucumber
+onions
+tomato
+lemon
+salt
+pepper

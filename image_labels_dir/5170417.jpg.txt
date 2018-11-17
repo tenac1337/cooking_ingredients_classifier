@@ -1,0 +1,8 @@
+cucumber
+tomato
+carrot
+radish
+onion
+salt
+chat masala
+lemon

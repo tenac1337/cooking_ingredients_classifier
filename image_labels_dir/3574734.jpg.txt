@@ -1,0 +1,10 @@
+onions,
+tomatoes
+cabbage
+potatoes
+carrots
+ginger from farm
+garlic
+turmeric from farm
+cayenne pepper
+vinegar

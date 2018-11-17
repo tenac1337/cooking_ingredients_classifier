@@ -1,0 +1,5 @@
+lettuce
+small cucumber
+eggs
+large tomato
+salad sauce

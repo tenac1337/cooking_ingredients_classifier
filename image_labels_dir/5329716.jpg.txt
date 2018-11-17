@@ -1,0 +1,6 @@
+eggs
+bread
+banana
+orange
+watermelon
+butter

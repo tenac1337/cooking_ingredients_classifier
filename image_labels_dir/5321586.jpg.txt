@@ -1,0 +1,7 @@
+lettuce
+big cucumber
+large tomatoe
+large red onion
+red wine
+olive oil
+vinegar,salt,pepper

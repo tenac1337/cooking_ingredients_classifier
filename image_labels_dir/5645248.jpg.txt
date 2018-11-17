@@ -1,0 +1,6 @@
+capsicum
+corn
+carrot
+salt
+pepper
+lime juice

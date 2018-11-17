@@ -1,0 +1,11 @@
+<salad>
+avocado
+tomato
+baby leaves
+garbanzo beans
+kidney beans
+<dressing>
+wasabi 
+shoyu
+olive oil
+lemon

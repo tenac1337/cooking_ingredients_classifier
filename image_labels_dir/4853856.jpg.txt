@@ -1,0 +1,6 @@
+lettuce
+bread
+egg
+garlic
+lemon juice
+salt

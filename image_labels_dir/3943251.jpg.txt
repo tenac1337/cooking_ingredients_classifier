@@ -1,0 +1,4 @@
+apple
+cucumber
+watermelon
+mayonnaise

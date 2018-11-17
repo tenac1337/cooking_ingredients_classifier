@@ -1,0 +1,6 @@
+egg
+tomatoes
+cucumber
+avocado
+red pepper
+fish 

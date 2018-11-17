@@ -1,0 +1,5 @@
+cucumber
+carrots
+eggs
+small cabbage
+green peas

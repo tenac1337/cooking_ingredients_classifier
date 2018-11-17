@@ -1,0 +1,6 @@
+avocado
+banana
+pineapple
+papaya
+beetroot
+watermelon

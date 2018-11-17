@@ -1,0 +1,3 @@
+cucumber
+medium carrots
+small sized cucumber

@@ -1,0 +1,4 @@
+cucumber
+onion
+tomato
+green chilli

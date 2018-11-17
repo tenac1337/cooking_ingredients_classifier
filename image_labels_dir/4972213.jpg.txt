@@ -1,0 +1,10 @@
+lettuce 
+carrot 
+beet 
+potatoes 
+peas 
+cucumber 
+eggs 
+green beans 
+cabbage 
+salad cream 
